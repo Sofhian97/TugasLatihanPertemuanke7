@@ -24,7 +24,9 @@ Menggunakan fungsi input dengan tipe data integer karena akan menginput suatu bi
 Berikut adalah hasil dari program diatas. 
 
 ## Lab 3 latihan 1
-### Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut: <img width="508" alt="gambar tugas lab 3 latihan 1" src="https://user-images.githubusercontent.com/116411792/202894188-236b9266-2bb0-40e4-888a-2581ef829e3d.png">
+### Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut: 
+<img width="508" alt="gambar tugas lab 3 latihan 1" src="https://user-images.githubusercontent.com/116411792/202894188-236b9266-2bb0-40e4-888a-2581ef829e3d.png">
+
 
 <img width="402" alt="ss lab3latihan1 python mengurutkan angka menggunakan nested for (program)" src="https://user-images.githubusercontent.com/116411792/202894503-a90559e8-86ab-482b-a256-1095b9aa77bf.png">
 
